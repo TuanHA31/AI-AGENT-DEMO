@@ -1,0 +1,266 @@
+Hệ thống tra cứu biển số xe Việt Nam.
+
+Biển số xe tại Việt Nam được phân theo mã số đầu tiên (2 chữ số).
+Mỗi tỉnh/thành phố có một hoặc nhiều mã riêng.
+
+Danh sách mã biển số và tỉnh thành:
+
+11 - Cao Bằng
+12 - Lạng Sơn
+14 - Quảng Ninh
+15, 16 - Hải Phòng
+17 - Thái Bình
+18 - Nam Định
+19 - Phú Thọ
+20 - Thái Nguyên
+21 - Yên Bái
+22 - Tuyên Quang
+23 - Hà Giang
+24 - Lào Cai
+25 - Lai Châu
+26 - Sơn La
+27 - Điện Biên
+28 - Hòa Bình
+29, 30, 31, 32, 33, 40 - Hà Nội
+34 - Hải Dương
+35 - Ninh Bình
+36 - Thanh Hóa
+37 - Nghệ An
+38 - Hà Tĩnh
+43 - Đà Nẵng
+47 - Đắk Lắk
+48 - Đắk Nông
+49 - Lâm Đồng
+50, 51, 52, 53, 54, 55, 56, 57, 58, 59 - TP. Hồ Chí Minh
+60 - Đồng Nai
+61 - Bình Dương
+62 - Long An
+63 - Tiền Giang
+64 - Vĩnh Long
+65 - Cần Thơ
+66 - Đồng Tháp
+67 - An Giang
+68 - Kiên Giang
+69 - Cà Mau
+70 - Tây Ninh
+71 - Bến Tre
+72 - Bà Rịa - Vũng Tàu
+73 - Quảng Bình
+74 - Quảng Trị
+75 - Thừa Thiên Huế
+76 - Quảng Ngãi
+77 - Bình Định
+78 - Phú Yên
+79 - Khánh Hòa
+81 - Gia Lai
+82 - Kon Tum
+83 - Sóc Trăng
+84 - Trà Vinh
+85 - Ninh Thuận
+86 - Bình Thuận
+88 - Vĩnh Phúc
+89 - Hưng Yên
+90 - Hà Nam
+92 - Quảng Nam
+93 - Bình Phước
+94 - Bạc Liêu
+95 - Hậu Giang
+97 - Bắc Kạn
+98 - Bắc Giang
+99 - Bắc Ninh
+
+Khi người dùng nhập biển số xe, hệ thống cần lấy 2 chữ số đầu tiên để xác định tỉnh/thành.
+Ví dụ:
+- 29A-12345 → Hà Nội
+- 51F-88888 → TP. Hồ Chí Minh
+- 43A-12345 → Đà Nẵng
+
+
+
+English Premier League Titles (1992–Present)
+
+This document lists the number of English Premier League (EPL) titles won by the 20 clubs competing in the 2025–26 season. Only titles won in the Premier League era (since 1992–93) are counted.
+
+1. Manchester United – 13 titles
+   Premier League titles: 1992–93, 1993–94, 1995–96, 1996–97, 1998–99, 1999–2000,
+   2000–01, 2002–03, 2006–07, 2007–08, 2008–09, 2010–11, 2012–13.
+
+2. Manchester City – 8 titles
+   Premier League titles: 2011–12, 2013–14, 2017–18, 2018–19,
+   2020–21, 2021–22, 2022–23, 2023–24.
+
+3. Chelsea – 5 titles
+   Premier League titles: 2004–05, 2005–06, 2009–10, 2014–15, 2016–17.
+
+4. Arsenal – 3 titles
+   Premier League titles: 1997–98, 2001–02, 2003–04.
+
+5. Liverpool – 1 title
+   Premier League title: 2019–20.
+
+6. Leicester City – 1 title
+   Premier League title: 2015–16.
+
+7. Blackburn Rovers – 1 title
+   Premier League title: 1994–95.
+
+8. Newcastle United – 0 titles
+
+9. Tottenham Hotspur – 0 titles
+
+10. Aston Villa – 0 titles
+
+11. West Ham United – 0 titles
+
+12. Everton – 0 titles
+
+13. Brighton & Hove Albion – 0 titles
+
+14. Crystal Palace – 0 titles
+
+15. Wolverhampton Wanderers – 0 titles
+
+16. Brentford – 0 titles
+
+17. Fulham – 0 titles
+
+18. Nottingham Forest – 0 titles
+
+19. Bournemouth – 0 titles
+
+20. Ipswich Town – 0 titles
+
+
+Summary:
+- Most successful club in EPL era: Manchester United (13 titles)
+- Most recent dominant club: Manchester City (8 titles)
+- Total different champions in EPL history: 7 clubs
+
+
+Southeast Asia – Overview of 11 Countries
+
+Southeast Asia consists of 11 countries located between the Indian Ocean and the Pacific Ocean. The region is known for cultural diversity, economic growth, tropical climate, and strategic trade routes.
+
+----------------------------------------
+1. Vietnam
+Capital: Hanoi
+Population: Over 100 million
+Government: Socialist republic
+Currency: Vietnamese dong (VND)
+Main language: Vietnamese
+Economy: Manufacturing, electronics, textiles, agriculture, exports
+Notable facts: One of the fastest-growing economies in ASEAN. Major exporter of rice and coffee.
+
+----------------------------------------
+2. Thailand
+Capital: Bangkok
+Population: Over 70 million
+Government: Constitutional monarchy
+Currency: Thai baht (THB)
+Main language: Thai
+Economy: Tourism, automotive industry, agriculture
+Notable facts: Famous for tourism, temples, and food. Major global tourist destination.
+
+----------------------------------------
+3. Indonesia
+Capital: Jakarta
+Population: Over 270 million
+Government: Presidential republic
+Currency: Indonesian rupiah (IDR)
+Main language: Indonesian (Bahasa Indonesia)
+Economy: Natural resources, palm oil, coal, manufacturing
+Notable facts: Largest country in Southeast Asia by population and land area. An archipelago with over 17,000 islands.
+
+----------------------------------------
+4. Malaysia
+Capital: Kuala Lumpur
+Population: Over 33 million
+Government: Federal constitutional monarchy
+Currency: Malaysian ringgit (MYR)
+Main language: Malay
+Economy: Electronics, petroleum, palm oil
+Notable facts: Diverse multicultural society with Malay, Chinese, and Indian communities.
+
+----------------------------------------
+5. Singapore
+Capital: Singapore
+Population: About 6 million
+Government: Parliamentary republic
+Currency: Singapore dollar (SGD)
+Main language: English, Malay, Mandarin, Tamil
+Economy: Finance, global trade, technology, port services
+Notable facts: Major global financial center and one of the richest countries per capita.
+
+----------------------------------------
+6. Philippines
+Capital: Manila
+Population: Over 110 million
+Government: Presidential republic
+Currency: Philippine peso (PHP)
+Main language: Filipino and English
+Economy: Services, remittances, business process outsourcing (BPO)
+Notable facts: Archipelago with over 7,000 islands. Strong overseas worker population.
+
+----------------------------------------
+7. Myanmar
+Capital: Naypyidaw
+Population: Over 50 million
+Government: Military-influenced political system
+Currency: Kyat (MMK)
+Main language: Burmese
+Economy: Agriculture, natural gas, jade
+Notable facts: Political instability in recent years has affected economic development.
+
+----------------------------------------
+8. Cambodia
+Capital: Phnom Penh
+Population: Over 16 million
+Government: Constitutional monarchy
+Currency: Cambodian riel (KHR)
+Main language: Khmer
+Economy: Garment manufacturing, tourism, agriculture
+Notable facts: Home to Angkor Wat, one of the largest religious monuments in the world.
+
+----------------------------------------
+9. Laos
+Capital: Vientiane
+Population: Over 7 million
+Government: Socialist republic
+Currency: Lao kip (LAK)
+Main language: Lao
+Economy: Hydropower, mining, agriculture
+Notable facts: Landlocked country; relies heavily on river transport and hydropower.
+
+----------------------------------------
+10. Brunei
+Capital: Bandar Seri Begawan
+Population: Under 1 million
+Government: Absolute monarchy
+Currency: Brunei dollar (BND)
+Main language: Malay
+Economy: Oil and gas
+Notable facts: One of the wealthiest countries in the region due to petroleum resources.
+
+----------------------------------------
+11. Timor-Leste
+Capital: Dili
+Population: About 1.3 million
+Government: Semi-presidential republic
+Currency: United States dollar (USD)
+Main language: Tetum and Portuguese
+Economy: Oil and gas, agriculture
+Notable facts: One of the youngest countries in Asia, gained independence in 2002.
+
+----------------------------------------
+Regional Organization
+
+ASEAN (Association of Southeast Asian Nations):
+Founded: 1967
+Members: All 10 Southeast Asian countries except Timor-Leste (observer status).
+Purpose: Promote economic growth, political stability, and regional cooperation.
+
+General Characteristics of Southeast Asia:
+- Tropical climate
+- High cultural and linguistic diversity
+- Strategic shipping routes (e.g., Strait of Malacca)
+- Rapid economic development in recent decades
