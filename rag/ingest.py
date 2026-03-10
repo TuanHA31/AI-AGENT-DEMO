@@ -15,7 +15,7 @@ HASH_FILE = os.path.join(DB_PATH, "doc_hash.txt")
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 CHUNK_SIZE = 500
-CHUNK_OVERLAP = 50
+CHUNK_OVERLAP = 100
 
 
 # ==============================
